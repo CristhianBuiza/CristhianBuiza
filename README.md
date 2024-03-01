@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cristhian Paul Buiza Infantes</h1>
 <h3 align="center">Experto en desarrollo de front-end con experiencia en proyectos del Grupo El Comercio</h3>
 
-- 🌱 I’m currently learning **AWS**
+
+  
 I specialize in Full Stack development, leveraging a broad range of technologies to create dynamic and effective solutions. My toolkit includes:
 
 - **Front-end**: React
@@ -9,7 +10,8 @@ I specialize in Full Stack development, leveraging a broad range of technologies
 - **Back-end**: Node.js (with Express), Python (with Django)
 - **Databases**: PostgreSQL (Relational), MongoDB (NoSQL)
 - **Containerization**: Docker
-
+- 🌱 I’m currently learning **AWS**
+  
 - 📫 How to reach me:
   - Email: [cristianbuiza@gmail.com](mailto:cristianbuiza@gmail.com)
   - Phone: +51 942313422
